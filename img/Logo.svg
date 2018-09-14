@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="45" height="45" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_9">
+   <polygon cx="195.5" cy="187.5" edge="6.036923" fill="#ff7f00" id="svg_2" orient="x" points="21.8248 5.05051 40.0199 17.4794 33.4805 38.0283 11.2443 38.3001 4.0404 17.9193 21.8248 5.05051" shape="regularPoly" sides="5" stroke="#333333" stroke-dasharray="2,2" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="3" strokeWidth="5" strokecolor="#000000"/>
+   <text fill="#ffffff" font-family="Fantasy" font-size="17" id="svg_3" stroke="#ff7f00" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.925442 0 0 0.803127 -237.708 -142.877)" x="280.242178" xml:space="preserve" y="212.305813">LSQ</text>
+  </g>
+ </g>
+</svg>
